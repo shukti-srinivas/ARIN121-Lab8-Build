@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Quiz Generator",
+  "description": "Generate custom 3-question multiple-choice practice quizzes from study material and receive instant grading with explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
